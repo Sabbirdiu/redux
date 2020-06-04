@@ -3,6 +3,14 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+//  STORE ->> Global  Management
+
+//ACTION ->> WHAT YOU WANT TO DO
+
+//REDUCER ->> DESCRIBE & CHECK THE ACTION
+
+//DISPATCH ->> THIS IS THE WAY TO EXECUTE THE ACTION
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
